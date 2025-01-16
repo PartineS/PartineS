@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">I live in Istanbul, I work on Cyber ​​Security and Network security.</h3>
+<h3 align="center">I live in Istanbul, I work on Cyber ​​Security, Database Security and Network security.</h3>
 
 - 💻 I’m currently working on **Cyber Security and Databes Security**
 
