@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cyber Security, Database Security and Network Security**
 
-- 👨‍💻 All of my projects are available at **GitHub profile](GitHub profile)**
+- 👨‍💻 All of my projects are available at **GitHub profile**
 
 - 🎮 Play goes well with work [https://steamcommunity.com/profiles/76561198806946457/](https://steamcommunity.com/profiles/76561198806946457/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me? **partines078@gmail.com**
 
-- 📄 Know about my experiences **GitHub profile](GitHub profile)**
+- 📄 Know about my experiences **GitHub profile**
 
 - 🤔 What is he like? **I think... Humorous, talkative person... sure =)**
 
