@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">I live in Istanbul, I work on Cyber ​​Security, Database Security and Network security.</h3>
 
-- 💻 I’m currently working on **Cyber Security and Databes Security**
+- 💻 I’m currently working on: **Cyber Security and Databes Security**
 
-- 🌱 I’m currently learning **Cyber Security, Database Security and Network Security**
+- 🌱 I’m currently learning: **Cyber Security, Database Security and Network Security**
 
-- 👨‍💻 All of my projects are available at **GitHub profile**
+- 👨‍💻 All of my projects are: available at **GitHub profile**
 
-- 🎮 Play goes well with work [https://steamcommunity.com/profiles/76561198806946457/](https://steamcommunity.com/profiles/76561198806946457/)
+- 🎮 Play goes well with work: [https://steamcommunity.com/profiles/76561198806946457/](https://steamcommunity.com/profiles/76561198806946457/)
 
-- 💬 Ask me about **.mozort Discord Adress**
+- 💬 Ask me about: **Discord Adress**
 
-- 📫 How to reach me? **partines078@gmail.com**
+- 📫 How to reach me: **partines078@gmail.com**
 
-- 📄 Know about my experiences **GitHub profile**
+- 📄 Know about my experiences: **GitHub profile**
 
-- 🤔 What is he like? **I think... Humorous, talkative person... sure =)**
+- 🤔 What is he like: **I think... Humorous, talkative person... sure =)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
