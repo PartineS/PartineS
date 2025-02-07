@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Cyber Security, Database Security and Network Security**
 
-- 👨‍💻 All of my projects are: available at **GitHub profile**
+- 👨‍💻 All of my projects are available at **GitHub profile**
 
 - 🎮 Play goes well with work: [https://steamcommunity.com/profiles/76561198806946457/](https://steamcommunity.com/profiles/76561198806946457/)
 
