@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I specialize in **Cyber Security, Database Securit
 very soon...
 
 
-👉 Explore all my work in my [GitHub repositories](https://github.com/PartineS).
+👉 Explore all my work in my [GitHub repositories](https://github.com/PartineS?tab=repositories).
 
 ---
 
