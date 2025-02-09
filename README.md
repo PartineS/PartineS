@@ -46,7 +46,7 @@ very soon...
 - **Email:** [partines0708@gmail.com](mailto:partines0708@gmail.com)
 - **GitHub:** [hasanbtw](https://github.com/hasanbtw)
 
-Let's collaborate and make something amazing together!
+I am open to collaboration and community invitations...
 
 ---
 
