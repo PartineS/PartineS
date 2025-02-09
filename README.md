@@ -14,13 +14,7 @@ Welcome to my GitHub profile! I specialize in **Cyber Security, Database Securit
 
 ## 📂 Featured Projects:
 Here are some of my projects:
-- **[Project 1: Secure File Transfer Protocol](#)**
-  - A secure FTP system built with encryption and authentication mechanisms.
-- **[Project 2: Network Traffic Analyzer](#)**
-  - A tool for monitoring and analyzing network traffic for anomalies.
-- **[Project 3: SQL Database Manager](#)**
-  - A robust database management system with user authentication and role-based access control.
-
+very soon...
 👉 Explore all my work in my [GitHub repositories](https://github.com/hasanbtw).
 
 ---
@@ -46,7 +40,7 @@ Here are some of my projects:
 
 ## 📞 Connect with Me:
 
-- **Discord:** Add me on Discord at `YourDiscordHandle`
+- **Discord:** Add me on Discord at `.mozort`
 - **Email:** [partines0708@gmail.com](mailto:partines0708@gmail.com)
 - **GitHub:** [hasanbtw](https://github.com/hasanbtw)
 
