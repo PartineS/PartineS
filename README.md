@@ -13,8 +13,10 @@ Welcome to my GitHub profile! I specialize in **Cyber Security, Database Securit
 ---
 
 ## 📂 Featured Projects:
-Here are some of my projects:
+
 very soon...
+
+
 👉 Explore all my work in my [GitHub repositories](https://github.com/hasanbtw).
 
 ---
