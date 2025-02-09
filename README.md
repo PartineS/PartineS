@@ -1,35 +1,64 @@
-<h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">I live in Istanbul, I work on Cyber ​​Security, Database Security and Network security.</h3>
+# Hi there, I'm Hasan! 👋
 
-- 💻 I’m currently working on: **Cyber Security and Databes Security**
+Welcome to my GitHub profile! I specialize in **Cyber Security, Database Security, and Network Security**, and I enjoy working on challenging problems while learning and growing in the tech space.
 
-- 🌱 I’m currently learning: **Cyber Security, Database Security and Network Security**
+---
 
-- 👨‍💻 All of my projects are available at **GitHub profile**
+## 👨‍💻 About Me:
+- 🌍 **Location:** Istanbul, Turkey
+- 📚 **Currently Learning:** Advanced topics in Cyber Security and Database Security.
+- 💼 **Looking for opportunities:** Open to collaborating on security-related projects.
+- 🎮 **Fun Fact:** I'm a gamer! Check out my [Steam profile](https://steamcommunity.com/profiles/76561198806946457/).
 
-- 🎮 Play goes well with work: [https://steamcommunity.com/profiles/76561198806946457/](https://steamcommunity.com/profiles/76561198806946457/)
+---
 
-- 💬 Ask me about: **Discord Adress**
+## 📂 Featured Projects:
+Here are some of my projects:
+- **[Project 1: Secure File Transfer Protocol](#)**
+  - A secure FTP system built with encryption and authentication mechanisms.
+- **[Project 2: Network Traffic Analyzer](#)**
+  - A tool for monitoring and analyzing network traffic for anomalies.
+- **[Project 3: SQL Database Manager](#)**
+  - A robust database management system with user authentication and role-based access control.
 
-- 📫 How to reach me: **partines078@gmail.com**
+👉 Explore all my work in my [GitHub repositories](https://github.com/hasanbtw).
 
-- 📄 Know about my experiences: **GitHub profile**
+---
 
-- 🤔 What is he like: **I think... Humorous, talkative person... sure =)**
+## 🛠️ Tools and Technologies:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/.mozort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".mozort" height="30" width="40" /></a>
-</p>
+![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hasanbtw"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hasanbtw" /></a></p><br><br>
+## 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=partines&show_icons=true&locale=en&layout=compact" alt="partines" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanbtw&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanbtw&layout=compact&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=partines&show_icons=true&locale=en" alt="partines" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=partines&" alt="partines" /></p>
+## 📞 Connect with Me:
+
+- **Discord:** Add me on Discord at `YourDiscordHandle`
+- **Email:** [partines0708@gmail.com](mailto:partines0708@gmail.com)
+- **GitHub:** [hasanbtw](https://github.com/hasanbtw)
+
+Let's collaborate and make something amazing together!
+
+---
+
+## ☕ Support Me:
+If you like my work, consider supporting me:
+
+[![Buy me a coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hasanbtw)
+
+---
+
+Thank you for stopping by! 🚀
