@@ -56,5 +56,3 @@ If you like my work, consider supporting me:
 [![Buy me a coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hasanbtw)
 
 ---
-
-Thank you for stopping by! 🚀
