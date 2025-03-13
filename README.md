@@ -1,6 +1,6 @@
 # Hi there, I'm Hasan! 👋
 
-Welcome to my GitHub profile! I am currently in the learning phase of Cyber Security, Database Security, and Network Security. I enjoy working on challenging problems while continuously improving my skills and growing in the tech space.
+Welcome to my GitHub profile! I am developing projects in Cyber Security, Database Security, and Network Security. I enjoy working on challenging problems while continuously improving my skills and growing in the tech space.
 
 ---
 
