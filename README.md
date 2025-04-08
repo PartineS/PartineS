@@ -43,7 +43,6 @@ very soon...
 ## 📞 Connect with Me:
 
 - **Discord:** Add me on Discord at `.mozort`
-- **Email:** [partines0708@gmail.com](mailto:partines0708@gmail.com)
 - **GitHub:** [hasanbtw](https://github.com/hasanbtw)
 
 I am open to collaboration and community invitations...
