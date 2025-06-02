@@ -1,4 +1,4 @@
-<h1 align="center">🌌 Hi, I'm Hasan — aka PartineS 🔐</h1>
+<h1 align="center">🌌 Hi, I'm Hasan — aka PartineS </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PartineS&style=flat-square&label=VISITORS&color=0d92ff" alt="Profile views" />
