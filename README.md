@@ -1,9 +1,9 @@
+![Profile Views](https://komarev.com/ghpvc/?username=PartineS&label=Profile%20views&color=0e75b6&style=flat)
 # Hi there, I'm Hasan! 👋
 
 Welcome to my GitHub profile! I am developing projects in Cyber Security, Database Security, and Network Security. I enjoy working on challenging problems while continuously improving my skills and growing in the tech space.
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=PartineS&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 👨‍💻 About Me:
 - 🌍 **Location:** Istanbul, Turkey
