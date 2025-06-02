@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hasan! 👋</h1>
+<h1 align="center">Hi there, I'm Hasan - aKa PartineS! 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PartineS&style=for-the-badge&label=PROFILE+VIEWS&color=blue" alt="Profile views" />
