@@ -48,8 +48,7 @@ Coming soon... Stay tuned!
 ### 🤝 Connect with Me
 
 - 💬 Discord: `.mozort`  
-- 🧭 GitHub: [hasanbtw](https://github.com/hasanbtw)  
-- 📫 Mail (optional): _you can add if desired_
+- 🧭 GitHub: [hasanbtw](https://github.com/PartineS)  
 
 ---
 
