@@ -1,67 +1,58 @@
-<h1 align="center">Hi there, I'm Hasan! 👋</h1>
+<h1 align="center">🌌 Hi, I'm Hasan — aka PartineS 🔐</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PartineS&style=for-the-badge&label=PROFILE+VIEWS&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PartineS&style=flat-square&label=VISITORS&color=0d92ff" alt="Profile views" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧬 About Me
 
 - 🌍 &nbsp;**Based in:** Istanbul, Turkey  
-- 📚 &nbsp;**Currently Learning:** Advanced topics in Cyber Security, Network Defense & Database Security  
-- 💼 &nbsp;**Open to Collaborate:** Looking for security-related side projects and learning partners  
-- 🎮 &nbsp;**Fun Fact:** Gamer at heart — [Steam profile](https://steamcommunity.com/profiles/76561198806946457/)  
+- 🔭 &nbsp;**Studying:** Cyber Security & Network Defense  
+- 🧠 &nbsp;**Currently Learning:** Database Security, Penetration Testing, Reverse Engineering  
+- 🕹️ &nbsp;**Gamer Side:** [Steam Profile](https://steamcommunity.com/profiles/76561198806946457/)
 
 ---
 
-### 🚀 Featured Projects
-Coming soon... Stay tuned!
+### 🧪 Projects & Labs
 
-👉 Check all my repos here: [My GitHub Repositories »](https://github.com/PartineS?tab=repositories)
+🛠️ Personal repositories coming soon.  
+📦 Check what I'm working on: [My Repositories →](https://github.com/PartineS?tab=repositories)
 
 ---
 
-### 🛠️ Tools & Technologies
+### 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-0d92ff?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0d92ff?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-1f1f1f?style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PartineS&show_icons=true&theme=tokyonight&hide=contribs&border_radius=8" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PartineS&layout=compact&theme=tokyonight&border_radius=8" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PartineS&show_icons=true&theme=blueberry&hide=contribs&border_radius=10" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PartineS&layout=compact&theme=blueberry&border_radius=10" height="160"/>
 </p>
 
 ---
 
-### 🤝 Connect with Me
+### 📡 Connect With Me
 
 - 💬 Discord: `.mozort`  
-- 🧭 GitHub: [hasanbtw](https://github.com/PartineS)  
-
----
-
-### ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/hasanbtw">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-</p>
+- 🧭 GitHub: [hasanbtw](https://github.com/hasanbtw)  
+- 🛰️ Steam: [76561198806946457](https://steamcommunity.com/profiles/76561198806946457/)  
 
 ---
 
 <p align="center">
-  <i>"Security isn’t just a product, it’s a mindset."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d92ff&height=100&section=footer"/>
 </p>
