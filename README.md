@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 Featured Projects
-Coming soon... Stay tuned!
+Coming soon... 
 
 👉 Check all my repos here: [My GitHub Repositories »](https://github.com/PartineS?tab=repositories)
 
