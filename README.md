@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hasan - aka PartineS! 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PartineS&style=for-the-badge&label=PROFILE+VIEWS&color=blue" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=PartineS&style=plastic&label=PROFILE+VIEWS&color=blue" alt="Profile views" />
 </p>
 
 ---
