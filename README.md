@@ -11,7 +11,7 @@
 - 🌍 &nbsp;**Based in:** Istanbul, Turkey  
 - 📚 &nbsp;**Currently Learning:** Advanced topics in Cyber Security, Network Defense & Database Security  
 - 💼 &nbsp;**Open to Collaborate:** Looking for security-related side projects and learning partners  
-- 🎮 &nbsp;**Fun Fact:** Gamer at heart — [Steam profile](https://steamcommunity.com/profiles/76561198806946457/)  
+
 
 ---
 
