@@ -49,12 +49,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
+metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PartineS&show_icons=true&theme=tokyonight&cache_seconds=86400" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PartineS&layout=compact&theme=tokyonight&cache_seconds=86400" height="160"/>
+  <img src="https://metrics.lecoq.io/PartineS?template=classic&languages=1&activity=1&theme=tokyonight"/>
 </p>
+
 
 ---
 
