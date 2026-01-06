@@ -9,14 +9,17 @@
 ## 🧠 About Me
 
 - 🌍 **Location:** Istanbul, Turkey  
-- 🎓 **Focus Areas:**  
-  - Advanced Networking & Network Infrastructure  
+- 🎓 **Status:** Student  
+- 📚 **Focus Areas:**  
+  - Network Engineering & Network Infrastructure  
   - Cyber Security & Network Defense  
   - Database Security  
 - 🧩 **Background:**  
-  Strong foundation in **Cisco Routing & Switching**, advanced network design, and hands-on lab work  
+  Hands-on experience with **Cisco-based network environments**,  
+  including designing, configuring, and troubleshooting networks  
+  from basic to advanced scenarios through labs and simulations  
 - 🤝 **Collaboration:**  
-  Open to security-focused projects, network optimization tasks, and CTF teams  
+  Open to learning-focused projects, networking labs, and CTF teams  
 
 ---
 
@@ -31,9 +34,10 @@
 
 ### 🔌 Networking & Infrastructure
 <p align="center">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Routing%20%26%20Switching-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Packet%20Tracer-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Network%20Design%20%26%20Troubleshooting-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Packet%20Tracer%20Labs-2E7D32?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 </p>
@@ -49,11 +53,14 @@
 
 ---
 
-streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PartineS&theme=tokyonight&hide_border=true"/>
-</p>
+## 🌐 Networking Capabilities
 
+- 🔧 Network design and configuration using Cisco devices  
+- 🧠 Routing protocols practice (OSPF, RIP, EIGRP)  
+- 🔁 Redundancy and availability concepts (HSRP, STP fundamentals)  
+- 🧪 VLAN, inter-VLAN routing, and network segmentation  
+- 🔍 Network troubleshooting and optimization  
+- 📡 Hands-on lab work with Packet Tracer  
 
 ---
 
