@@ -49,9 +49,9 @@
 
 ---
 
-metrics
+streak
 <p align="center">
-  <img src="https://metrics.lecoq.io/PartineS?template=classic&languages=1&activity=1&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=PartineS&theme=tokyonight&hide_border=true"/>
 </p>
 
 
