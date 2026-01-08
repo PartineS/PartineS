@@ -55,12 +55,12 @@
 
 ## 🌐 Networking Capabilities
 
-- 🔧 Network design and configuration using Cisco devices  
-- 🧠 Routing protocols practice (OSPF, RIP, EIGRP)  
-- 🔁 Redundancy and availability concepts (HSRP, STP fundamentals)  
-- 🧪 VLAN, inter-VLAN routing, and network segmentation  
-- 🔍 Network troubleshooting and optimization  
-- 📡 Hands-on lab work with Packet Tracer  
+-  Network design and configuration using Cisco devices  
+-  Routing protocols practice (OSPF, RIP, EIGRP)  
+-  Redundancy and availability concepts (HSRP, STP fundamentals)  
+-  VLAN, inter-VLAN routing, and network segmentation  
+-  Network troubleshooting and optimization  
+-  Hands-on lab work with Packet Tracer  
 
 ---
 
