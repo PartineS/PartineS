@@ -1,42 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3600&pause=900&color=7FDBFF&center=true&vCenter=true&width=720&lines=hi%2C+i'm+partines;network+engineering+%26+cyber+security;learning+by+building+and+breaking" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&duration=3600&pause=900&color=5DA9E9&center=true&vCenter=true&width=720&lines=hi%2C+i'm+partines;network+engineering+and+cyber+security;academic+and+hands-on+learning" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PartineS&style=for-the-badge&label=profile+views&color=0aa2ff" />
+  <img src="https://komarev.com/ghpvc/?username=PartineS&style=for-the-badge&label=profile+views&color=1f6feb" />
 </p>
 
 ---
 
 <small><i>
 
-### overview
+## profile
 
-i am a student focused on **network engineering** and **cyber security**,  
-with a strong interest in **network infrastructure**, **defensive security**,  
-and **hands-on lab-driven learning**.
+I am a student with an academic and practice-oriented focus on **Network Engineering** and **Cyber Security**.  
+My primary interests lie in **network infrastructure**, **secure network design**, and **defensive security concepts**, supported by systematic laboratory work and simulations.
 
-my approach is practical:  
-design → configure → break → troubleshoot → document.
-
-</i></small>
-
----
-
-<small><i>
-
-### background & interests
-
-- 🌍 based in **istanbul, turkey**  
-- 🎓 currently a **student**  
-- 📚 primary focus areas:
-  - network engineering & infrastructure  
-  - cyber security & network defense  
-  - database & data security  
-
-- 🧩 experience includes working with **cisco-based environments**,  
-  practicing real-world network scenarios through labs, simulations,  
-  and structured troubleshooting exercises.
+My learning approach emphasizes structured experimentation:  
+analysis, configuration, controlled failure, troubleshooting, and documentation.
 
 </i></small>
 
@@ -44,15 +24,41 @@ design → configure → break → troubleshoot → document.
 
 <small><i>
 
-### projects & labs
+## academic interests
 
-most of my work revolves around:
-- network topology design & simulations  
-- routing & switching labs  
+- Network Engineering and Network Infrastructure  
+- Cyber Security and Network Defense  
+- Database and Data Security  
+
+I focus on understanding both theoretical foundations and their practical implications in real-world network environments.
+
+</i></small>
+
+---
+
+<small><i>
+
+## technical background
+
+I have hands-on experience with **Cisco-based network environments**, including the design, configuration, and troubleshooting of small to medium-scale network topologies.  
+My work primarily involves laboratory-based scenarios that simulate real-world networking challenges using industry-standard tools.
+
+</i></small>
+
+---
+
+<small><i>
+
+## projects and laboratories
+
+My repositories mainly consist of:
+- network design and simulation projects  
+- routing and switching laboratories  
 - security-focused experiments  
-- packet tracer & linux-based practice  
+- structured Packet Tracer and Linux-based practice environments  
 
-👉 full list of repositories:  
+All projects are documented with an emphasis on clarity, reproducibility, and learning outcomes.
+
 🔗 https://github.com/PartineS?tab=repositories
 
 </i></small>
@@ -61,14 +67,14 @@ most of my work revolves around:
 
 <small><i>
 
-### tools & technologies
+## tools and technologies
 
-#### networking & infrastructure
+### networking and infrastructure
 
 <p align="center">
   <img src="https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/routing%20%26%20switching-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/network%20design-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/routing%20and%20switching-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/network%20design%20and%20troubleshooting-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/packet%20tracer-2E7D32?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/kali%20linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
@@ -80,7 +86,7 @@ most of my work revolves around:
 
 <small><i>
 
-#### languages & databases
+### programming languages and databases
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -97,25 +103,14 @@ most of my work revolves around:
 
 <small><i>
 
-### technical capabilities
+## technical competencies
 
-- network design & configuration using cisco devices  
-- routing protocols (ospf, rip, eigrp)  
-- redundancy & availability concepts (hsrp, stp fundamentals)  
-- vlan, inter-vlan routing, segmentation  
-- troubleshooting & performance optimization  
-- packet tracer & linux-based lab environments  
-
-</i></small>
-
----
-
-<small><i>
-
-### contact
-
-- discord: **.mozort**  
-- github: https://github.com/PartineS  
+- network design and configuration using Cisco devices  
+- routing protocols: OSPF, RIP, EIGRP  
+- redundancy and availability concepts (HSRP, STP fundamentals)  
+- VLAN implementation, inter-VLAN routing, and network segmentation  
+- network troubleshooting and performance optimization  
+- Packet Tracer and Linux-based laboratory environments  
 
 </i></small>
 
@@ -123,7 +118,18 @@ most of my work revolves around:
 
 <small><i>
 
-### support
+## contact information
+
+- Discord: **.mozort**  
+- GitHub: https://github.com/PartineS  
+
+</i></small>
+
+---
+
+<small><i>
+
+## support
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/hasanbtw">
@@ -132,3 +138,4 @@ most of my work revolves around:
 </p>
 
 </i></small>
+
