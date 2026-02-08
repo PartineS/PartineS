@@ -4,9 +4,7 @@
 
 <i>
 
-> *hasan mahmut tuncer*  
-> *computer engineering graduate*  
-> *cyber security & software development oriented student*
+
 
 ---
 
