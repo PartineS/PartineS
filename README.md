@@ -10,7 +10,7 @@
 
 <small><i>
 
-### overview
+### overview 🧠
 
 i am a student focused on **network engineering** and **cyber security**,  
 with an emphasis on **network infrastructure**, **defensive security**,  
@@ -25,9 +25,9 @@ design → configure → break → troubleshoot → document.
 
 <small><i>
 
-### background & interests
+### background & interests 🎓
 
-- based in **istanbul, turkey**  
+- based in **istanbul, turkey** 🌍  
 - currently a **student**  
 - primary focus areas:
   - network engineering & infrastructure  
@@ -43,15 +43,14 @@ design → configure → break → troubleshoot → document.
 
 <small><i>
 
-### projects & labs
+### projects & labs 🧪
 
 my work mainly includes:
 - network topology design & simulations  
 - routing & switching labs  
 - security-oriented experiments  
 
-repositories:  
-https://github.com/PartineS?tab=repositories
+🔗 https://github.com/PartineS?tab=repositories
 
 </i></small>
 
@@ -59,7 +58,7 @@ https://github.com/PartineS?tab=repositories
 
 <small><i>
 
-### tools & technologies
+### tools & technologies 🛠️
 
 #### networking & infrastructure
 
@@ -78,7 +77,7 @@ https://github.com/PartineS?tab=repositories
 
 <small><i>
 
-#### languages & databases
+#### languages & databases 💻
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -95,7 +94,7 @@ https://github.com/PartineS?tab=repositories
 
 <small><i>
 
-### technical capabilities
+### technical capabilities ⚙️
 
 - network design & configuration using cisco devices  
 - routing protocols (ospf, rip, eigrp)  
@@ -109,7 +108,7 @@ https://github.com/PartineS?tab=repositories
 
 <small><i>
 
-### contact
+### contact 🤝
 
 - discord: **.mozort**  
 - github: https://github.com/PartineS  
@@ -120,7 +119,7 @@ https://github.com/PartineS?tab=repositories
 
 <small><i>
 
-### support
+### support ☕
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/hasanbtw">
