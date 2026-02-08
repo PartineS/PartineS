@@ -1,142 +1,118 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=3500&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=hi+there%2C+i'm+partines+%F0%9F%91%8B;network+%26+cyber+security+focused;learning%2C+building%2C+breaking+things" />
+</p>
 
-<small>
-
-<i>
-
-
-
----
-
-</i>
-
-</small>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PartineS&style=for-the-badge&label=profile+views&color=blue" />
+</p>
 
 ---
 
-<small>
+<small><i>
 
-<i>
+## 🧠 about
 
-## about me
+- 🌍 **location:** istanbul, turkey  
+- 🎓 **status:** student  
+- 📚 **focus areas:**  
+  - network engineering & network infrastructure  
+  - cyber security & network defense  
+  - database security  
 
-i am a computer engineering graduate with a strong academic and practical background in  
-**software development**, **database systems**, **computer networks**, and **cyber security**.
+- 🧩 **background:**  
+  hands-on experience with **cisco-based network environments**,  
+  including designing, configuring, and troubleshooting networks  
+  from basic to advanced scenarios through labs and simulations.
 
-throughout my education, i have focused on understanding not only how systems work,  
-but also **why they fail**, **how they are attacked**, and **how they can be secured**.
+- 🤝 **collaboration:**  
+  open to learning-focused projects, networking labs,  
+  and ctf-oriented team work.
 
-my approach is analytical, disciplined, and detail-oriented, shaped by both academic  
-training and hands-on technical practice.
-
-</i>
-
-</small>
-
----
-
-<small>
-
-<i>
-
-## technical interests
-
-- cyber security & network security  
-- secure software development  
-- database design & query optimization  
-- system analysis and architecture  
-- offensive & defensive security concepts  
-
-</i>
-
-</small>
+</i></small>
 
 ---
 
-<small>
+<small><i>
 
-<i>
+## 🚀 featured projects
 
-## programming languages
+👉 explore all repositories here  
+🔗 https://github.com/PartineS?tab=repositories
 
-- c  
-- c++  
-- c#  
-- sql  
-- javascript  
-
-</i>
-
-</small>
+</i></small>
 
 ---
 
-<small>
+<small><i>
 
-<i>
+## 🛠️ technologies & tools
 
-## technical skills
+### 🔌 networking & infrastructure
 
-- object oriented programming (oop)  
-- data structures & algorithms  
-- relational database design (er diagrams, normalization)  
-- sql query writing & optimization  
-- basic penetration testing methodologies  
-- network fundamentals (tcp/ip, vlan, routing concepts)  
+<p align="center">
+  <img src="https://img.shields.io/badge/cisco%20networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/routing%20%26%20switching-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/network%20design%20%26%20troubleshooting-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/packet%20tracer%20labs-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/kali%20linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+</p>
 
-</i>
-
-</small>
-
----
-
-<small>
-
-<i>
-
-## academic focus
-
-my academic focus revolves around building **correct**, **efficient**, and **secure** systems.
-
-i prioritize:
-- clean and readable code  
-- logical system design  
-- security awareness at every layer  
-- continuous learning and self-improvement  
-
-</i>
-
-</small>
+</i></small>
 
 ---
 
-<small>
+<small><i>
 
-<i>
+### 💻 languages & databases
 
-## philosophy
+<p align="center">
+  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-> *code should be readable, systems should be secure,  
-> and knowledge should always be questioned.*
-
-</i>
-
-</small>
+</i></small>
 
 ---
 
-<div align="center">
+<small><i>
 
-<small>
+## 🌐 networking capabilities
 
-<i>
+- network design and configuration using cisco devices  
+- routing protocols practice (ospf, rip, eigrp)  
+- redundancy & availability concepts (hsrp, stp fundamentals)  
+- vlan, inter-vlan routing, and network segmentation  
+- network troubleshooting and optimization  
+- hands-on lab work with packet tracer  
 
-— *hasan mahmut tuncer*
+</i></small>
 
-</i>
+---
 
-</small>
+<small><i>
 
-</div>
+## 🤝 connect
+
+- 💬 **discord:** .mozort  
+- 🧭 **github:** https://github.com/PartineS  
+
+</i></small>
+
+---
+
+<small><i>
+
+## ☕ support
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/hasanbtw">
+    <img src="https://img.shields.io/badge/buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
+
+</i></small>
