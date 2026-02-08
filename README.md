@@ -1,75 +1,86 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3600&pause=900&color=7FDBFF&center=true&vCenter=true&width=720&lines=hi%2C+i'm+partines;network+engineering+%26+cyber+security" />
-</p>
+<h1 align="center">Hi there, I'm Hasan — aka PartineS 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PartineS&style=for-the-badge&label=profile+views&color=0aa2ff" />
+  <img src="https://komarev.com/ghpvc/?username=PartineS&style=for-the-badge&label=PROFILE+VIEWS&color=blue" />
 </p>
 
 ---
 
-<small><i>
+## 🧠 About Me
 
-i am a student primarily interested in **network engineering** and **cyber security**.  
-my focus is on **network infrastructure**, **secure network design**, and **defensive security concepts**, supported by hands-on laboratory work and simulations.
+- 🌍 **Location:** Istanbul, Turkey  
+- 📚 **Focus Areas:**  
+  - Network Engineering & Network Infrastructure  
+  - Cyber Security & Network Defense  
+  - Database Security  
 
-</i></small>
+- 🧩 **Background:**  
+  Hands-on experience with **Cisco-based network environments**,  
+  including network design, configuration, and troubleshooting  
+  across basic to advanced scenarios using labs and simulations.
 
----
-
-<small><i>
-
-### areas of interest 📚
-
-- network engineering & infrastructure  
-- cyber security & network defense  
-- database & data security  
-
-</i></small>
+- 🤝 **Collaboration:**  
+  Open to learning-focused projects, network laboratories,  
+  and Capture The Flag (CTF) teams.
 
 ---
 
-<small><i>
+## 🚀 Featured Projects
 
-### projects & practice 🧪
-
-my repositories mostly contain network labs, simulations, and security-oriented practice work.
-
+👉 Explore all repositories here:  
 🔗 https://github.com/PartineS?tab=repositories
 
-</i></small>
+---
+
+## 🛠️ Technologies & Tools
+
+### 🔌 Networking & Infrastructure
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Network%20Design%20%26%20Troubleshooting-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Packet%20Tracer%20Labs-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+</p>
 
 ---
 
-<small><i>
-
-### tools & technologies 🛠️
+### 💻 Languages & Databases
 
 <p align="center">
-  <img src="https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/kali%20linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-</i></small>
 
 ---
 
-<small><i>
+## 🌐 Networking Capabilities
 
-### contact 🤝
+- Network design and configuration using Cisco devices  
+- Routing protocols (OSPF, RIP, EIGRP)  
+- Redundancy and availability concepts (HSRP, STP fundamentals)  
+- VLAN implementation, inter-VLAN routing, and segmentation  
+- Network troubleshooting and optimization  
+- Hands-on laboratory work with Packet Tracer  
 
-- discord: **.mozort**  
-- github: https://github.com/PartineS  
+---
 
-</i></small>
+## 🤝 Connect with Me
 
+- 💬 **Discord:** .mozort  
+- 🧭 **GitHub:** https://github.com/PartineS  
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/hasanbtw">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
