@@ -1,36 +1,23 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=26&duration=3600&pause=900&color=5DA9E9&center=true&vCenter=true&width=720&lines=hi%2C+i'm+partines;network+engineering+and+cyber+security;academic+and+hands-on+learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3600&pause=900&color=7FDBFF&center=true&vCenter=true&width=720&lines=hi%2C+i'm+partines;network+engineering+%26+cyber+security;learning+by+building+and+breaking" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PartineS&style=for-the-badge&label=profile+views&color=1f6feb" />
+  <img src="https://komarev.com/ghpvc/?username=PartineS&style=for-the-badge&label=profile+views&color=0aa2ff" />
 </p>
 
 ---
 
 <small><i>
 
-## profile
+### overview
 
-I am a student with an academic and practice-oriented focus on **Network Engineering** and **Cyber Security**.  
-My primary interests lie in **network infrastructure**, **secure network design**, and **defensive security concepts**, supported by systematic laboratory work and simulations.
+i am a student focused on **network engineering** and **cyber security**,  
+with an emphasis on **network infrastructure**, **defensive security**,  
+and **hands-on, lab-driven learning**.
 
-My learning approach emphasizes structured experimentation:  
-analysis, configuration, controlled failure, troubleshooting, and documentation.
-
-</i></small>
-
----
-
-<small><i>
-
-## academic interests
-
-- Network Engineering and Network Infrastructure  
-- Cyber Security and Network Defense  
-- Database and Data Security  
-
-I focus on understanding both theoretical foundations and their practical implications in real-world network environments.
+my approach is practical:  
+design → configure → break → troubleshoot → document.
 
 </i></small>
 
@@ -38,28 +25,17 @@ I focus on understanding both theoretical foundations and their practical implic
 
 <small><i>
 
-## technical background
+### background & interests
 
-I have hands-on experience with **Cisco-based network environments**, including the design, configuration, and troubleshooting of small to medium-scale network topologies.  
-My work primarily involves laboratory-based scenarios that simulate real-world networking challenges using industry-standard tools.
+- based in **istanbul, turkey**  
+- currently a **student**  
+- primary focus areas:
+  - network engineering & infrastructure  
+  - cyber security & network defense  
+  - database & data security  
 
-</i></small>
-
----
-
-<small><i>
-
-## projects and laboratories
-
-My repositories mainly consist of:
-- network design and simulation projects  
-- routing and switching laboratories  
-- security-focused experiments  
-- structured Packet Tracer and Linux-based practice environments  
-
-All projects are documented with an emphasis on clarity, reproducibility, and learning outcomes.
-
-🔗 https://github.com/PartineS?tab=repositories
+- experience with **cisco-based environments**,  
+  working on realistic network scenarios through labs and simulations.
 
 </i></small>
 
@@ -67,14 +43,30 @@ All projects are documented with an emphasis on clarity, reproducibility, and le
 
 <small><i>
 
-## tools and technologies
+### projects & labs
 
-### networking and infrastructure
+my work mainly includes:
+- network topology design & simulations  
+- routing & switching labs  
+- security-oriented experiments  
+
+repositories:  
+https://github.com/PartineS?tab=repositories
+
+</i></small>
+
+---
+
+<small><i>
+
+### tools & technologies
+
+#### networking & infrastructure
 
 <p align="center">
   <img src="https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/routing%20and%20switching-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/network%20design%20and%20troubleshooting-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/routing%20%26%20switching-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/network%20design-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/packet%20tracer-2E7D32?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/kali%20linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
@@ -86,7 +78,7 @@ All projects are documented with an emphasis on clarity, reproducibility, and le
 
 <small><i>
 
-### programming languages and databases
+#### languages & databases
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -103,25 +95,13 @@ All projects are documented with an emphasis on clarity, reproducibility, and le
 
 <small><i>
 
-## technical competencies
+### technical capabilities
 
-- network design and configuration using Cisco devices  
-- routing protocols: OSPF, RIP, EIGRP  
-- redundancy and availability concepts (HSRP, STP fundamentals)  
-- VLAN implementation, inter-VLAN routing, and network segmentation  
-- network troubleshooting and performance optimization  
-- Packet Tracer and Linux-based laboratory environments  
-
-</i></small>
-
----
-
-<small><i>
-
-## contact information
-
-- Discord: **.mozort**  
-- GitHub: https://github.com/PartineS  
+- network design & configuration using cisco devices  
+- routing protocols (ospf, rip, eigrp)  
+- redundancy & availability fundamentals (hsrp, stp)  
+- vlan, inter-vlan routing, and segmentation  
+- troubleshooting in lab-based environments  
 
 </i></small>
 
@@ -129,7 +109,18 @@ All projects are documented with an emphasis on clarity, reproducibility, and le
 
 <small><i>
 
-## support
+### contact
+
+- discord: **.mozort**  
+- github: https://github.com/PartineS  
+
+</i></small>
+
+---
+
+<small><i>
+
+### support
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/hasanbtw">
@@ -138,4 +129,3 @@ All projects are documented with an emphasis on clarity, reproducibility, and le
 </p>
 
 </i></small>
-
