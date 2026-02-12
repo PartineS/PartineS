@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - 🌍 **Location:** Istanbul, Turkey  
 - 📚 **Focus Areas:**  
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 👉 Explore all repositories here:  
 🔗 https://github.com/PartineS?tab=repositories
@@ -72,8 +72,8 @@
 
 ## 🤝 Connect with Me
 
-- 💬 **Discord:** .mozort  
-- 🧭 **GitHub:** https://github.com/PartineS  
+-  **Discord:** .mozort  
+-  **GitHub:** https://github.com/PartineS  
 
 ---
 
